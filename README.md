@@ -21,19 +21,19 @@ This project analyzes Telangana’s domestic and foreign tourism data from 2016 
 
 ## 🛠️ Tools & Technologies
 
-- MySQL Workbench – For writing and executing SQL queries
-- Microsoft Excel – For initial data cleaning and formatting
-- Canva – For presenting SQL queries and output visuals
+- MySQL Workbench – For writing and executing SQL queries.
+- Microsoft Excel – For initial data cleaning and formatting.
+- Canva – For presenting SQL queries and output visuals.
 
 ---
 
 ## 📂 Dataset Description
 
-- **Time Period:** 2016–2019
-- **Data Sources:** Telangana state tourism statistics
+- **Time Period:** 2016–2019.
+- **Data Sources:** Telangana state tourism statistics.
 - **Data Includes:**  
-  - District-wise monthly visitor count (domestic and foreign)  
-  - Population statistics
+  - District-wise monthly visitor count (domestic and foreign).
+  - Population statistics.
 
 ---
 
